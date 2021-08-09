@@ -74,4 +74,3 @@ Type `\q` to exit the postgres client application and return to your bash shell.
 
 ---
 
-### [⇐ Previous](./1-heroku.md) | [Next ⇒](./3-code-challenges.md)
